@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "239258823972",
+    "firebase_url": "https://expandablerecyclerdemo-master.firebaseio.com",
+    "project_id": "expandablerecyclerdemo-master",
+    "storage_bucket": "expandablerecyclerdemo-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239258823972:android:87411ddf5f3c5590",
+        "android_client_info": {
+          "package_name": "dev.edmt.expandablerecyclerdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239258823972-pffln38ak7tuls90pml6sj93j6f3t6j4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.edmt.expandablerecyclerdemo",
+            "certificate_hash": "9d03385a8ab62e8994a872af98921c2a921a9b38"
+          }
+        },
+        {
+          "client_id": "239258823972-4d6e2co1fkcn41ekj6kai17m935p17e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEQUeNEcpLhnGQ0cqkc6BB8JazmrJfIVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239258823972-4d6e2co1fkcn41ekj6kai17m935p17e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
